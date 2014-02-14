@@ -1,7 +1,7 @@
 AcikDersMalzemeleri-OpenCourse-Ve-Moduller
 ==========================================
 
-Burada  Türkçe ve coğu ingilizce opencourse lar ,ders materyalleri  bulunmaktadır. 
+Burada  Türkçe ve İngilizce opencourse lar ,ders materyalleri  bulunmaktadır. 
 
 
    İngilizce Olanlar   
