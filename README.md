@@ -34,7 +34,7 @@ Burada  Türkçe ve İngilizce opencourse lar ,ders materyalleri  bulunmaktadır
    
    7)  Eastern Mediterranean University       http://opencourses.emu.edu.tr/
    
-   Megep Modulleri 
+   8)  Megep Modulleri                        http://www.megep.meb.gov.tr/?page=moduller
    
-     http://www.megep.meb.gov.tr/?page=moduller
+  
      
