@@ -1,5 +1,4 @@
-AcikDersMalzemeleri-OpenCourse-Ve-Moduller
-==========================================
+###AcikDersMalzemeleri-OpenCourse-Ve-Moduller
 
 Burada  Türkçe ve İngilizce opencourse lar ,ders materyalleri  bulunmaktadır. 
 
@@ -37,6 +36,6 @@ Burada  Türkçe ve İngilizce opencourse lar ,ders materyalleri  bulunmaktadır
    8)  Megep Modulleri                        http://www.megep.meb.gov.tr/?page=moduller
    
    
-   _Hasan ÖZ
+   < *Hasan ÖZ*
   
      
