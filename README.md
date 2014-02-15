@@ -1,6 +1,6 @@
 ###AcikDersMalzemeleri-OpenCourse-Ve-Moduller
 
-Burada  Türkçe ve İngilizce opencourse lar ,ders materyalleri  bulunmaktadır. 
+Merhaba arkadaşlar burada  Türkçe ve İngilizce opencourse lar ve ders materyalleri  bulunmaktadır.Hemen hemen hepsi ücretsizdir.Coursera nın  sadece bazı dersleri ücretlidir.Ücretli olanlar ise sonunda sertifika verilmektedir aynı zamanda.İngilizce videolar gercekten cok iyi ve kapsamlı .Türkçe olanları tam bende incelemedim ama faydalı olacagını düsünüyorum.İçerik bakımında o kadar da geniş değiller.Megep candır mutlaka okuyun , cok iyi faydalı seyler bulacağınıza eminim.
 
 
  İngilizce Olanlar   
